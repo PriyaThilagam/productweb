@@ -719,13 +719,13 @@ styles.css
 ```
 
 ## Output:
-![output](./out1.png)
-![output](./out2.png)
-![output](./out3.png)
-![output](./out4.png)
+![output](./out1.jpg)
+![output](./out2.jpg)
+![output](./out3.jpg)
+![output](./out4.jpg)
 
 ## HTML Validator
-![output](./valid.png)
+![output](./valid.jpg)
 
 ## Result:
 The program for designing company website for sale of products using HTML and CSS is completed successfully.
